@@ -1,9 +1,5 @@
 # hello world
-Hello world repository for git tutorial
-This is an example repository for the git tutorial od w3schools
+This is my github website, where are mostly cats in various shapes and forms.
+It's for entertaiment puproses.
 
-This repository is built step by step in the tutorial
-
-Some aditonal text, lol
-
-dodano lol
+Oh, and I am bored, totaly.
